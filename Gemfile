@@ -11,4 +11,3 @@ group :development do
   gem 'rubocop', require: false
   gem 'overcommit'
 end
-
