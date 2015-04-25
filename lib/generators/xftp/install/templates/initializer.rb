@@ -8,7 +8,7 @@ XFTP.configure do |config|
   #   :verbose  => false,
   #   :colorize => true
   # }
-  
+
   # FTP connection settings
   #
   # config.ftp = {
