@@ -26,5 +26,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 10.0'
 
   spec.add_runtime_dependency 'rails', '~> 3.2'
-  spec.add_runtime_dependency 'xftp', '~> 0.3', '< 0.4'
+  spec.add_runtime_dependency 'xftp', '~> 0.3', '>= 0.3.0'
 end
