@@ -1,13 +1,9 @@
 XFTP.configure do |config|
   # Logging configuration
   #
-  # Default logger fallbacks to `Rails.logger` if available, otherwise `STDERR` will be used.
+  # Default logger fallbacks to `Rails.logger` if available, otherwise `STDOUT` will be used.
   #
-  # config.logging = {
-  #   :logger   => defined?(Rails) ? Rails.logger : Logger.new(STDERR),
-  #   :verbose  => false,
-  #   :colorize => true
-  # }
+  # config.logger = defined?(Rails) ? Rails.logger : Logger.new(STDOUT),
 
   # FTP connection settings
   #
