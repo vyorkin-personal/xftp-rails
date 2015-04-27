@@ -2,12 +2,12 @@ module XFTP
   module Rails
     module VERSION
       MAJOR = 0
-      MINOR = 2
-      PATCH = 1
-      SUFFIX = 'alpha'
+      MINOR = 3
+      PATCH = 0
+      SUFFIX = ''
 
       NUMBER = [MAJOR, MINOR, PATCH].compact.join('.')
-      STRING = "#{NUMBER}-#{SUFFIX}"
+      STRING = "#{NUMBER}#{SUFFIX}"
     end
   end
 end
