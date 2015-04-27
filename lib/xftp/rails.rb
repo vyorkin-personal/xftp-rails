@@ -1,1 +1,1 @@
-require 'xftp/rails/version'
+require 'xftp'
