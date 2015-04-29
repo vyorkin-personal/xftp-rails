@@ -1,7 +1,7 @@
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
-VERSION = '0.3.2'
+VERSION = '0.4.0'
 
 Gem::Specification.new do |spec|
   spec.name          = 'xftp-rails'
@@ -27,5 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 10.0'
 
   spec.add_runtime_dependency 'rails', '~> 3.2'
-  spec.add_runtime_dependency 'xftp', '~> 0.3', '>= 0.3.1'
+  spec.add_runtime_dependency 'xftp', '~> 0.4', '>= 0.4.0'
 end
