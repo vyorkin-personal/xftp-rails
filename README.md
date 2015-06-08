@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vyorkin/xftp-rails.svg)](https://travis-ci.org/vyorkin/xftp-rails)
+
 # Xftp::Rails
 
 Rails generator for xftp gem
