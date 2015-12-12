@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/vyorkin/xftp-rails.svg)](https://travis-ci.org/vyorkin/xftp-rails)
+[![Build Status](https://travis-ci.org/vyorkin-personal/xftp-rails.svg)](https://travis-ci.org/vyorkin-personal/xftp-rails)
+[![Dependency Status](https://gemnasium.com/vyorkin-personal/xftp-rails.svg)](https://gemnasium.com/vyorkin-personal/xftp-rails)
 
 # Xftp::Rails
 
